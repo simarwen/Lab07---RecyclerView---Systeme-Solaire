@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Systeme Solaire</string>
+    <string name="mercury_name">Mercury</string>
+    <string name="mercury_distance">57.9 million km</string>
+    <string name="mercury_description">Mercury is the smallest and innermost planet in the Solar System.</string>
+    <string name="venus_name">Venus</string>
+    <string name="venus_distance">108.2 million km</string>
+    <string name="venus_description">Venus is the second planet from the Sun. It is sometimes called Earths "sister planet" because the two are similar in size and gravity.</string>
+    <string name="earth_name">Earth</string>
+    <string name="earth_distance">149.6 million km</string>
+    <string name="earth_description">Earth is the third planet from the Sun and the only astronomical object known to harbor life.</string>
+    <string name="mars_name">Mars</string>
+    <string name="mars_distance">227.9 million km</string>
+    <string name="mars_description">Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury.</string>
+    <string name="jupiter_name">Jupiter</string>
+    <string name="jupiter_distance">778.5 million km</string>
+    <string name="jupiter_description">Jupiter is the fifth planet from the Sun and the largest in the Solar System.</string>
+    <string name="saturn_name">Saturn</string>
+    <string name="saturn_distance">1.434 billion km</string>
+    <string name="saturn_description">Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter.</string>
+    <string name="uranus_name">Uranus</string>
+    <string name="uranus_distance">2.871 billion km</string>
+    <string name="uranus_description">Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System.</string>
+    <string name="neptune_name">Neptune</string>
+    <string name="neptune_distance">4.495 billion km</string>
+    <string name="neptune_description">Neptune is the eighth and farthest known Solar planet from the Sun.</string>
+</resources>
